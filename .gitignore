@@ -23,3 +23,34 @@ go.work.sum
 
 # env file
 .env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Binary
+panoptes-go
+
+# Logs
+*.log
+
+# Temporary files
+*~
+.*.swp
+
+# Coverage
+coverage.txt
+
+# Air
+tmp/
